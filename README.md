@@ -25,7 +25,7 @@ AnytimeAnywhere - Music Recommendation App -
 	* 사용자의 날씨와 시간만을 반영한 추천리스트
 	* 사용자가 별점을 준 노래가 있다면, 그 노래를 위주로 추천한 리스트 (사용자의 선호도)
 <p align="center">
-	<img src="pages.png" width="90%"></img>
+	<img src="screenshots/pages.png" width="90%"></img>
 </p>
 
 ## 앱에서 하는일
@@ -38,5 +38,5 @@ AnytimeAnywhere - Music Recommendation App -
 추천리스트는 point가 높은 순서대로 만들어지며, 제일 높은 점수를 가진 음악이 앱에 노출되고, 순서대로 재생된다. 중간중간 계속 상황을 업데이트하기 때문에 이에 맞춰 리스트도 주기적으로 업데이트된다.
 - 상황에 따라 다른 음악이 추천되는 것을 아래 캡쳐에서 확인할 수 있다.
 <p>
-	<img src="allList.png" width="90%"></img>
+	<img src="screenshots/allList.png" width="90%"></img>
 </p>
