@@ -37,6 +37,6 @@ AnytimeAnywhere - Music Recommendation App -
 - 각 요소를 반영하여 추천리스트를 만든다.
 추천리스트는 point가 높은 순서대로 만들어지며, 제일 높은 점수를 가진 음악이 앱에 노출되고, 순서대로 재생된다. 중간중간 계속 상황을 업데이트하기 때문에 이에 맞춰 리스트도 주기적으로 업데이트된다.
 - 상황에 따라 다른 음악이 추천되는 것을 아래 캡쳐에서 확인할 수 있다.
-<p>
+<p align="center">
 	<img src="screenshots/allList.png" width="90%"></img>
 </p>
